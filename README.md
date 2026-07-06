@@ -13,15 +13,25 @@ Express.js and MongoDB following MVC architecture.
 ## Project Structure
 srudent_management-API/
 ├── config/
+
 │   └── db.js
+
 ├── controllers/
+
 │   └── studentController.js
+
 ├── models/
+
 │   └── Student.js
+
 ├── routes/
+
 │   └── studentRoutes.js
+
 ├── app.js
+
 └── server.js
+
 
 ## API Endpoints
 
