@@ -14,19 +14,19 @@ Express.js and MongoDB following MVC architecture.
 srudent_management-API/
 ├── config/
 
-│   └── db.js
+   └── db.js
 
 ├── controllers/
 
-│   └── studentController.js
+   └── studentController.js
 
 ├── models/
 
-│   └── Student.js
+   └── Student.js
 
 ├── routes/
 
-│   └── studentRoutes.js
+   └── studentRoutes.js
 
 ├── app.js
 
